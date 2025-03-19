@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Bióloga de formação, professora e entusiasta da análise de dados. No meu dia a dia, ensino Ciências, Biologia e Práticas Experimentais, mas também me aventuro no mundo da estatística e programação. Trabalhei com espécies invasoras e adoro entender padrões ecológicos por meio dos dados. Atualmente, estou explorando o universo da Ciência de Dados pela EBAC.<br><br>Interesses: Ensino, Ecologia, Estatística e Ciência de dados.<br>Habilidades: R, Phyton, PowerBI, Modelagem estatística e Análises de dados ecológicos</p>
+<p align="left">Bióloga de formação, professora e entusiasta da análise de dados. No meu dia a dia, ensino Ciências, Biologia e Práticas Experimentais, mas também me aventuro no mundo da estatística e programação. Trabalhei com espécies invasoras e adoro entender padrões ecológicos por meio dos dados. Atualmente, estou explorando o universo da Ciência de Dados pela EBAC.<br><br> 💡 Interesses: Ensino, Ecologia, Estatística e Ciência de dados.<br> 🛠️ Habilidades: R, Phyton, PowerBI, Modelagem estatística e Análises de dados ecológicos</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Find me</p>
+<h2 align="left">Find me</h2>
 
 ###
 
